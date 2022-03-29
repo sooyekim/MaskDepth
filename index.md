@@ -1,5 +1,5 @@
-## Layered Depth Refinement with Mask Guidance
-#### CVPR 2022
+# Layered Depth Refinement with Mask Guidance
+## CVPR 2022
 [Soo Ye Kim](https://sites.google.com/view/sooyekim)<sup>1</sup>  
 <sup>1</sup>KAIST
 
