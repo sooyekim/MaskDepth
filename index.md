@@ -12,9 +12,10 @@ Depth maps are used in a wide range of applications from 3D rendering to 2D imag
 
 ### Demo
 <div style="text-align: left">
-Select an image from the left and hover over the buttons on the right to compare the initial depth map by DPT [1] and the refined results by Boosting [2] and Ours.  
+Select an image from the left and hover over the buttons on the right to compare the initial depth map by DPT [1] and the refined results by Boosting [2] and Ours. All images are from <a href="https://unsplash.com/">unsplash</a>, <a href="https://pixabay.com/">pixabay</a> and <a href="https://stock.adobe.com/">Adobe Stock</a>.  
+<!-- <br>
 <br>
 [1] Ranftl et al., <a href="https://github.com/isl-org/DPT">Vision Transformers for Dense Prediction</a>, ICCV, 2021.
 <br>
 [2] Miangoleh et al., <a href="http://yaksoy.github.io/highresdepth/">Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging</a>, CVPR, 2021. 
-</div>
+</div> -->
