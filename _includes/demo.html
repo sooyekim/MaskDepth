@@ -3,8 +3,8 @@
         <select class="form-control" style="height:140px; left:0px; position:absolute; top:0px; width:300px;" multiple="multiple"></select>
         <button class="btn btn-outline-primary" style="height:140px; left:310px; position:absolute; top:0px; width:150px;">Input<br>image</button>
         <button class="btn btn-outline-primary" style="height:40px; left:470px; position:absolute; top:0px; width:150px;">DPT</button>
-        <button class="btn btn-outline-primary" style="height:40px; left:470px; position:absolute; top:50px; width:150px;">Ours</button>
-        <button class="btn btn-outline-primary" style="height:40px; left:470px; position:absolute; top:100px; width:150px;">Boosting</button>
+        <button class="btn btn-outline-primary" style="height:40px; left:470px; position:absolute; top:50px; width:150px;">Boosting</button>
+        <button class="btn btn-outline-primary" style="height:40px; left:470px; position:absolute; top:100px; width:150px;">Ours</button>
         <button class="btn btn-outline-primary" style="height:140px; left:630px; position:absolute; top:0px; width:150px;">Mask<br>(for ours)</button>
     </div>
 </p>
@@ -43,13 +43,13 @@
 
                 jQuery('img').eq(2)
                     .attr({
-                        'src': 'comparisons/ours/' + jQuery(this).val() + '_pred.png'
+                        'src': 'comparisons/boosting/' + jQuery(this).val() + '.png'
                     })
                 ;
 
                 jQuery('img').eq(3)
                     .attr({
-                        'src': 'comparisons/boosting/' + jQuery(this).val() + '.png'
+                        'src': 'comparisons/ours/' + jQuery(this).val() + '_pred.png'
                     })
                 ;
 
