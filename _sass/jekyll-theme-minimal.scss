@@ -14,7 +14,7 @@ p, ul, ol, table, pre, dl {
 }
 
 table, tr, td {
-  border: none;
+  border-collapse:collapse;
 }
 
 h1, h2, h3 {
