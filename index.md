@@ -1,10 +1,10 @@
 # Layered Depth Refinement with Mask Guidance
 ### CVPR 2022
-<h1>
-  [Soo Ye Kim](https://sites.google.com/view/sooyekim)<sup>1</sup>
+<h4>
+  <a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a><sup>1</sup>
   <br>
   <sup>1</sup>KAIST
-</h1>
+</h4>
 
 ## Abstract
 <div style="text-align: left">
