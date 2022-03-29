@@ -3,7 +3,7 @@
 <!-- <h4><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></h4>
 <h5>KAIST</h5>
 <br> -->
-<table>
+<table border="0" width=80% align="center">
   <tr>
     <th><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></th>
     <th><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></th>
