@@ -9,7 +9,7 @@
     <th><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></th>
     <th><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></th>
   </tr>
-  <tr>
+  <tr style='font-weight:300'>
     <td>KAIST</td>
     <td>KAIST</td>
     <td>KAIST</td>
