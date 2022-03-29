@@ -1,4 +1,6 @@
 ## Layered Depth Refinement with Mask Guidance
+[Soo Ye Kim](https://sites.google.com/view/sooyekim)
+
 ### CVPR 2022
 
 #### Abstract
