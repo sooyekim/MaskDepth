@@ -14,7 +14,8 @@ p, ul, ol, table, pre, dl {
 }
 
 table, th, tr, td {
-  border:0;
+  border-collapse:collapse;
+  border:none;
 }
 
 td {
