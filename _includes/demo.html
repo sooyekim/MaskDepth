@@ -29,31 +29,31 @@
     jQuery(window.document).ready(function () {
         jQuery('select')
             .on('change', function() {
-                jQuery('img').eq(0)
+                jQuery('img').eq(1)
                     .attr({
                         'src': 'comparisons/rgb/' + jQuery(this).val() + '.jpg'
                     })
                 ;
 
-                jQuery('img').eq(1)
+                jQuery('img').eq(2)
                     .attr({
                         'src': 'comparisons/dpt/' + jQuery(this).val() + '_depth.png'
                     })
                 ;
 
-                jQuery('img').eq(2)
+                jQuery('img').eq(3)
                     .attr({
                         'src': 'comparisons/boosting/' + jQuery(this).val() + '.png'
                     })
                 ;
 
-                jQuery('img').eq(3)
+                jQuery('img').eq(4)
                     .attr({
                         'src': 'comparisons/ours/' + jQuery(this).val() + '_pred.png'
                     })
                 ;
 
-                jQuery('img').eq(4)
+                jQuery('img').eq(5)
                     .attr({
                         'src': 'comparisons/mask/' + jQuery(this).val() + '_mask.png'
                     })
