@@ -15,9 +15,10 @@
     <td>KAIST</td>
   </tr>
 </table> -->
-| [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) |
-|------------|------------|------------|
-| KAIST      | KAIST      | KAIST      |
+
+| [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | 
+|---|---|---| 
+| KAIST | KAIST | KAIST |  
 
 ## Abstract
 <div style="text-align: left">
