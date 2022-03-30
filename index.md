@@ -20,7 +20,7 @@
 |:---:|:---:|:---:| 
 | KAIST | KAIST | KAIST |  
 
-<img src="images/teaser.jpg" alt="teaser">
+<img src="images/teaser.jpg" alt="teaser"></img>
 
 ## Abstract
 <div style="text-align: left">
