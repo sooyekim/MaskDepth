@@ -113,9 +113,12 @@ table {
 
 th, td {
   text-align:center;
-  font-weight:300;
   padding:0 5px;
   border:none;
+}
+
+td {
+  font-weight:300;
 }
 
 dt {
