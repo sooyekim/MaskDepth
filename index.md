@@ -1,20 +1,5 @@
 # Layered Depth Refinement with Mask Guidance
 ### CVPR 2022
-<!-- <h4><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></h4>
-<h5>KAIST</h5>
-<br> -->
-<!-- <table>
-  <tr>
-    <th><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></th>
-    <th><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></th>
-    <th><a href="https://sites.google.com/view/sooyekim">Soo Ye Kim</a></th>
-  </tr>
-  <tr style='font-weight:300'>
-    <td>KAIST</td>
-    <td>KAIST</td>
-    <td>KAIST</td>
-  </tr>
-</table> -->
 
 | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | 
 |:---:|:---:|:---:| 
