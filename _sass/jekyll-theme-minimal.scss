@@ -13,15 +13,6 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-table, th, tr, td {
-  border-collapse:collapse;
-  border:none;
-}
-
-td {
-  font-weight:300;
-}
-
 h1, h2, h3 {
   line-height:1.1;
 }
@@ -114,12 +105,13 @@ pre {
 table {
   width:100%;
   border-collapse:collapse;
+  border:none;
 }
 
 th, td {
-  text-align:left;
+  text-align:center;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border:none;
 }
 
 dt {
@@ -127,8 +119,8 @@ dt {
   font-weight:700;
 }
 
-th {
-  color:#444;
+td {
+  font-weight:300;
 }
 
 img {
