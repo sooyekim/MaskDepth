@@ -10,6 +10,9 @@
     <img src="./images/teaser.jpg" alt="teaser" width="100%">
   </p>
 </div>
+<div style="text-align: left">
+Our layered depth refinement result on an initial prediction by <a href="https://github.com/isl-org/DPT">DPT</a>. Aided by a high-quality mask <i>M</i>, automatically generated using a <a href="https://www.remove.bg">commercial tool</a>, our method is able to accurately refine mask boundaries and correct depth values in isolated background regions. Regions in <i>M</i> and <i>1-M</i> are refined and inpainted/outpainted separately with our layered approach.
+</div>
 
 ## Abstract
 <div style="text-align: left">
