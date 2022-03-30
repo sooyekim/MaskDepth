@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 16px/1.5 'Lato', sans-serif;
+  font: 15px/1.5 'Lato', sans-serif;
   color:#727272;
   font-weight:400;
 }
@@ -13,11 +13,8 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-table {
+table, tr, td {
   border-collapse:collapse;
-}
-
-td {
   border:none;
 }
 
