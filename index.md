@@ -21,7 +21,9 @@
 | KAIST | KAIST | KAIST |  
 
 <div>
-  <img src="./images/teaser.jpg" alt="teaser"></img>
+  <p>
+    <img src="./images/teaser.jpg" alt="teaser" width="100%">
+  </p>
 </div>
 
 ## Abstract
