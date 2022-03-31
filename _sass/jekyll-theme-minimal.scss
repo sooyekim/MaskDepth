@@ -230,8 +230,8 @@ hr {
 
 footer {
   width:270px;
-  float:left;
-  position:fixed;
+  float:none;
+  position:relative;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -245,7 +245,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:static;
+    position:relative;
     width:auto;
   }
 
