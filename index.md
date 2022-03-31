@@ -5,8 +5,6 @@
 |:---:|:---:|:---:| 
 | KAIST | KAIST | KAIST |  
 
-<br>
-
 ![teaser](./images/teaser.jpg)
 
 <div style="text-align: left; font-weight: 300; font-size: 13; line-height: 1.2">
