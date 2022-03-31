@@ -4,12 +4,8 @@
 | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | 
 |:---:|:---:|:---:| 
 | KAIST | KAIST | KAIST |  
+<br>
 
-<!-- <div>
-  <p>
-    <img src="./images/teaser.jpg" alt="teaser" width="100%">
-  </p>
-</div> -->
 ![teaser](./images/teaser.jpg)
 
 <div style="text-align: left; font-weight: 300; font-size: 13; line-height: 1.2">
