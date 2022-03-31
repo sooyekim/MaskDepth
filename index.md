@@ -4,6 +4,7 @@
 | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Soo Ye Kim](https://sites.google.com/view/sooyekim) | 
 |:---:|:---:|:---:| 
 | KAIST | KAIST | KAIST |  
+
 <br>
 
 ![teaser](./images/teaser.jpg)
