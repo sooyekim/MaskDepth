@@ -25,13 +25,3 @@ Depth maps are used in a wide range of applications from 3D rendering to 2D imag
 <div style="text-align: left">
 <b>Select an image from the left</b> and <b>hover over the buttons on the right</b> to compare the initial depth map by DPT [1] and the refined results by Boosting [2] and Ours. All images are from <a href="https://unsplash.com/">unsplash</a>, <a href="https://pixabay.com/">pixabay</a> and <a href="https://stock.adobe.com/">Adobe Stock</a>.  
 </div>
-
-## BibTeX
-<div>
-<pre><code>@inproceedings{kim2022layered,
-  title     = {Layered Depth Refinement with Mask Guidance},
-  author    = {Kim, Soo Ye and Zhang, Jianming and Niklaus, Simon and Fan, Yifei and Lin, Zhe and Kim, Munchurl},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year      = {2022}
-}</code></pre>
-</div>
