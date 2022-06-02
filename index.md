@@ -1,13 +1,13 @@
 # Layered Depth Refinement with Mask Guidance
 ### CVPR 2022
 
-| [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Jianming Zhang](https://jimmie33.github.io/) | [Simon Niklaus](https://sniklaus.com/welcome) | Yifei Fan |
-|:---:|:---:|:---:|:---:|
-| KAIST | Adobe | Adobe | Adobe |  
+| [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Jianming Zhang](https://jimmie33.github.io/) | [Simon Niklaus](https://sniklaus.com/welcome) | Yifei Fan | Simon Chen | [Zhe Lin](https://sites.google.com/site/zhelin625/) | [Munchurl Kim](https://www.viclab.kaist.ac.kr/) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| KAIST | Adobe | Adobe | Adobe | Adobe | Adobe | KAIST |
 
-| Simon Chen | [Zhe Lin](https://sites.google.com/site/zhelin625/) | [Munchurl Kim](https://www.viclab.kaist.ac.kr/) |
+<!-- | Simon Chen | [Zhe Lin](https://sites.google.com/site/zhelin625/) | [Munchurl Kim](https://www.viclab.kaist.ac.kr/) |
 |:---:|:---:|:---:|
-| Adobe | Adobe | KAIST |
+| Adobe | Adobe | KAIST | -->
 
 ![teaser](./images/teaser.jpg)
 
