@@ -25,3 +25,6 @@ Depth maps are used in a wide range of applications from 3D rendering to 2D imag
 <div style="text-align: left">
 <b>Select an image from the left</b> and <b>hover over the buttons on the right</b> to compare the initial depth map by DPT [1] and the refined results by Boosting [2] and Ours. All images are from <a href="https://unsplash.com/">unsplash</a>, <a href="https://pixabay.com/">pixabay</a> and <a href="https://stock.adobe.com/">Adobe Stock</a>.  
 </div>
+<div>
+{% include demo.html %}
+</div>
