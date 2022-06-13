@@ -9,6 +9,18 @@
 |:---:|:---:|:---:|
 | Adobe | Adobe | KAIST |
 
+<!-- <div style="test-align: center">
+  <span class="link-block">
+    <a href="https://arxiv.org/abs/2206.03048"
+       class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+          <i class="fas fa-file-pdf"></i>
+      </span>
+      <span>Paper</span>
+    </a>
+  </span>
+</div>
+ -->
 ![teaser](./images/teaser.jpg)
 
 <div style="text-align: left; font-weight: 300; font-size: 13; line-height: 1.2">
@@ -24,7 +36,4 @@ Depth maps are used in a wide range of applications from 3D rendering to 2D imag
 ## Demo
 <div style="text-align: left">
 <b>Select an image from the left</b> and <b>hover over the buttons on the right</b> to compare the initial depth map by DPT [1] and the refined results by Boosting [2] and Ours. All images are from <a href="https://unsplash.com/">unsplash</a>, <a href="https://pixabay.com/">pixabay</a> and <a href="https://stock.adobe.com/">Adobe Stock</a>.  
-</div>
-<div>
-{% include demo.html %}
 </div>
