@@ -10,14 +10,23 @@
 |:---:|:---:|:---:|
 | Adobe | Adobe | KAIST |
 
-<div style="test-align: center; font: 16px/1.0 'Lato', sans-serif; font-weight: 400; color:#222; margin: 20px 0 20px 0">
+<div style="test-align: center; font-size: 16px; font-weight: 400; margin: 20px 0 20px 0">
   <span class="link-block">
-    <a href="https://arxiv.org/abs/2206.03048"
+    <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Layered_Depth_Refinement_With_Mask_Guidance_CVPR_2022_paper.pdf"
        class="external-link button is-normal is-rounded is-dark">
       <span class="icon">
           <i class="fas fa-file-pdf"></i>
       </span>
       <span>Paper</span>
+    </a>
+  </span>
+  <span class="link-block">
+    <a href="https://arxiv.org/abs/2206.03048"
+       class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+          <i class="ai ai-arxiv"></i>
+      </span>
+      <span>arXiv</span>
     </a>
   </span>
 </div>
