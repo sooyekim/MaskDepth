@@ -13,7 +13,7 @@
 <div style="test-align: center; font-size: 16px; font-weight: 400; margin: 25px 0">
   <span class="link-block" style="margin: 0 10px">
     <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Layered_Depth_Refinement_With_Mask_Guidance_CVPR_2022_paper.pdf"
-       class="external-link button is-normal is-rounded is-dark" style="color: #393939">
+       class="external-link button is-normal is-rounded is-dark" style="color: #222">
       <span class="icon">
           <i class="fas fa-file-pdf"></i>
       </span>
@@ -22,7 +22,7 @@
   </span>
   <span class="link-block" style="margin: 0 10px">
     <a href="https://arxiv.org/abs/2206.03048"
-       class="external-link button is-normal is-rounded is-dark" style="color: #393939">
+       class="external-link button is-normal is-rounded is-dark" style="color: #222">
       <span class="icon">
           <i class="ai ai-arxiv"></i>
       </span>
