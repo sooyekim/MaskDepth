@@ -10,7 +10,7 @@
 |:---:|:---:|:---:|
 | Adobe | Adobe | KAIST |
 
-<div style="test-align: center; font-weight: 400; font-size: 17px; margin: 20px 0 20px 0">
+<div style="test-align: center; font: 16px/1.0 'Lato', sans-serif; font-weight: 400; color:#222; margin: 20px 0 20px 0">
   <span class="link-block">
     <a href="https://arxiv.org/abs/2206.03048"
        class="external-link button is-normal is-rounded is-dark">
