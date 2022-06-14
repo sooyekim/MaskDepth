@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|
 | Adobe | Adobe | KAIST |
 
-<!-- <div style="test-align: center">
+<div style="test-align: center">
   <span class="link-block">
     <a href="https://arxiv.org/abs/2206.03048"
        class="external-link button is-normal is-rounded is-dark">
@@ -20,7 +20,7 @@
     </a>
   </span>
 </div>
- -->
+
 ![teaser](./images/teaser.jpg)
 
 <div style="text-align: left; font-weight: 300; font-size: 13; line-height: 1.2">
