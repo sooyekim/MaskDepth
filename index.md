@@ -1,6 +1,16 @@
 # Layered Depth Refinement with Mask Guidance
 
-<div style="test-align: center; font-weight: 300; font-size: 17px; margin: 10px 0 0 0">
+### CVPR 2022
+
+| [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Jianming Zhang](https://jimmie33.github.io/) | [Simon Niklaus](https://sniklaus.com/welcome) | Yifei Fan |
+|:---:|:---:|:---:|:---:|
+| KAIST | Adobe | Adobe | Adobe |
+
+| Simon Chen | [Zhe Lin](https://sites.google.com/site/zhelin625/) | [Munchurl Kim](https://www.viclab.kaist.ac.kr/) |
+|:---:|:---:|:---:|
+| Adobe | Adobe | KAIST |
+
+<div style="test-align: center; font-weight: 400; font-size: 17px; margin: 20px 0 20px 0">
   <span class="link-block">
     <a href="https://arxiv.org/abs/2206.03048"
        class="external-link button is-normal is-rounded is-dark">
@@ -11,16 +21,6 @@
     </a>
   </span>
 </div>
-
-### CVPR 2022
-
-| [Soo Ye Kim](https://sites.google.com/view/sooyekim) | [Jianming Zhang](https://jimmie33.github.io/) | [Simon Niklaus](https://sniklaus.com/welcome) | Yifei Fan |
-|:---:|:---:|:---:|:---:|
-| KAIST | Adobe | Adobe | Adobe |
-
-| Simon Chen | [Zhe Lin](https://sites.google.com/site/zhelin625/) | [Munchurl Kim](https://www.viclab.kaist.ac.kr/) |
-|:---:|:---:|:---:|
-| Adobe | Adobe | KAIST |
 
 ![teaser](./images/teaser.jpg)
 
