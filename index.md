@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|
 | Adobe | Adobe | KAIST |
 
-<div style="test-align: center">
+<div style="test-align: center; font-size: 16px; margin: 10px 0 0 0">
   <span class="link-block">
     <a href="https://arxiv.org/abs/2206.03048"
        class="external-link button is-normal is-rounded is-dark">
