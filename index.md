@@ -10,7 +10,7 @@
 |:---:|:---:|:---:|
 | Adobe | Adobe | KAIST |
 
-<div style="test-align: center; font-size: 16px; font-weight: 400; margin: 25px 0">
+<div style="test-align: center; font-size: 16px; font-weight: 400; margin: 20px 0 25px">
   <span class="link-block" style="margin: 0 15px">
     <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Layered_Depth_Refinement_With_Mask_Guidance_CVPR_2022_paper.pdf"
        class="external-link button is-normal is-rounded is-dark" style="color: #222">
