@@ -15,7 +15,7 @@
     <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Layered_Depth_Refinement_With_Mask_Guidance_CVPR_2022_paper.pdf"
        class="external-link button is-normal is-rounded is-dark" style="color: #222">
       <span class="icon">
-          <i class="fas fa-file-pdf"></i>
+          <i class="fa-solid fa-file-lines"></i>
       </span>
       <span>Paper</span>
     </a>
