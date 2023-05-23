@@ -29,6 +29,15 @@
       <span>arXiv</span>
     </a>
   </span>
+  <span class="link-block" style="margin: 0 15px">
+    <a href="https://github.com/adobe-research/layered-depth-refinement"
+       class="external-link button is-normal is-rounded is-dark" style="color: #222">
+      <span class="icon">
+          <i class="fa-brands fa-github"></i>
+      </span>
+      <span>GitHub</span>
+    </a>
+  </span>
 </div>
 
 ![teaser](./images/teaser.jpg)
